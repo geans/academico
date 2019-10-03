@@ -1,0 +1,17 @@
+
+
+# Cenário 4
+Número de viagens Sink: 2
+
+sensores: 100, área: (1000 x 1000) m², velocidade: 10 m/s
+
+------------------------------------------------------------------------------------
+|          DESCRIÇÃO           |           VALOR            |     PORCENTAGEM      |
+------------------------------------------------------------------------------------
+| Tempo decorrido (em minutos) |           84.88            |                      |
+| Pacotes transferidos         |             68             |        100.00        |
+| Pacotes perdidos             |             0              |         0.00         |
+| Nós encontados pelo Sink     |             18             |        18.00         |
+| Nós descarregados            |            459             |        459.00        |
+| Energia final da rede        |           897415           |        92.16         |
+------------------------------------------------------------------------------------

@@ -1,0 +1,26 @@
+# request register user header - client
+AUBA version
+REGISTER_ME user
+PASSWD passwd
+
+
+# request backup header - client:
+AUBA version
+BACKUP_TO user
+TOTAL_SIZE number
+
+
+# request transmit file header + content file - client
+AUBA version
+FILE_COUNT count
+FILE_NAME name
+FILE_DATETIME_UPDATE datetime
+FILE_OCCURRED [CHANGES, ADDITION, REMOVAL]
+FILE_SIZE number
+
+content
+
+
+# answer - server
+I_DONT_KNOW_YOU | OK | WRONG_TIME | INSUFFICIENT_SPACE |
+ CONTRACT_ERROR | INTERNAL_ERRO | REGISTER_OK | WRONG_PASSWD

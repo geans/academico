@@ -1,0 +1,6 @@
+# Eclipse binary java files
+*.class
+
+# JSensor logs
+log*
+userLog*

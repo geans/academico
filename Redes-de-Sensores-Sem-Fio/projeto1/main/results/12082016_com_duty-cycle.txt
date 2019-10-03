@@ -1,0 +1,132 @@
+
+
+# Cenário 1
+sensores: 10, área: (1000 x 1000) m², velocidade: 1 m/s
+
+Energia total inicial da rede: 6048000
+-------------------------------------------------------------------------------------------------------------------------
+| Tempo decorrido (em minutos) | Pacotes transferidos | Pacotes perdidos | Nós encontados pelo Sink | Nós descarregados |
+|            432.67            |         351          |        0         |     10     de     10     |         0         |
+|                              |       100.00       % |      0.00      % |         100.00         % |       0.00      % |
+-------------------------------------------------------------------------------------------------------------------------
+Energia total final da rede: 6012040
+
+
+# Cenário 2
+sensores: 10, área: (1000 x 1000) m², velocidade: 10 m/s
+
+Energia total inicial da rede: 6048000
+-------------------------------------------------------------------------------------------------------------------------
+| Tempo decorrido (em minutos) | Pacotes transferidos | Pacotes perdidos | Nós encontados pelo Sink | Nós descarregados |
+|            43.27             |          32          |        0         |     9      de     10     |         0         |
+|                              |       100.00       % |      0.00      % |          90.00         % |       0.00      % |
+-------------------------------------------------------------------------------------------------------------------------
+Energia total final da rede: 6044434
+
+
+# Cenário 3
+sensores: 100, área: (1000 x 1000) m², velocidade: 1 m/s
+
+Energia total inicial da rede: 60480000
+-------------------------------------------------------------------------------------------------------------------------
+| Tempo decorrido (em minutos) | Pacotes transferidos | Pacotes perdidos | Nós encontados pelo Sink | Nós descarregados |
+|            432.67            |         2853         |       285        |     99     de    100     |         0         |
+|                              |        90.92       % |      9.08      % |          99.00         % |       0.00      % |
+-------------------------------------------------------------------------------------------------------------------------
+Energia total final da rede: 60126970
+
+
+# Cenário 4
+sensores: 100, área: (1000 x 1000) m², velocidade: 10 m/s
+
+Energia total inicial da rede: 60480000
+-------------------------------------------------------------------------------------------------------------------------
+| Tempo decorrido (em minutos) | Pacotes transferidos | Pacotes perdidos | Nós encontados pelo Sink | Nós descarregados |
+|            43.27             |         290          |        19        |     93     de    100     |         0         |
+|                              |        93.85       % |      6.15      % |          93.00         % |       0.00      % |
+-------------------------------------------------------------------------------------------------------------------------
+Energia total final da rede: 60444657
+
+
+# Cenário 5
+sensores: 1000, área: (1000 x 1000) m², velocidade: 1 m/s
+
+Energia total inicial da rede: 604800000
+-------------------------------------------------------------------------------------------------------------------------
+| Tempo decorrido (em minutos) | Pacotes transferidos | Pacotes perdidos | Nós encontados pelo Sink | Nós descarregados |
+|            432.67            |        18515         |      12796       |    978     de    1000    |         0         |
+|                              |        59.13       % |      40.87     % |          97.80         % |       0.00      % |
+-------------------------------------------------------------------------------------------------------------------------
+Energia total final da rede: 601369850
+
+
+# Cenário 6
+sensores: 1000, área: (1000 x 1000) m², velocidade: 10 m/s
+
+Energia total inicial da rede: 604800000
+-------------------------------------------------------------------------------------------------------------------------
+| Tempo decorrido (em minutos) | Pacotes transferidos | Pacotes perdidos | Nós encontados pelo Sink | Nós descarregados |
+|            43.27             |         1795         |       1327       |    954     de    1000    |         0         |
+|                              |        57.50       % |      42.50     % |          95.40         % |       0.00      % |
+-------------------------------------------------------------------------------------------------------------------------
+Energia total final da rede: 604457565
+
+
+# Cenário 7
+sensores: 10000, área: (1000 x 1000) m², velocidade: 1 m/s
+
+Energia total inicial da rede: 6048000000
+-------------------------------------------------------------------------------------------------------------------------
+| Tempo decorrido (em minutos) | Pacotes transferidos | Pacotes perdidos | Nós encontados pelo Sink | Nós descarregados |
+|            432.67            |        25960         |      286027      |    9794    de   10000    |         0         |
+|                              |        8.32        % |      91.68     % |          97.94         % |       0.00      % |
+-------------------------------------------------------------------------------------------------------------------------
+Energia total final da rede: 6015290400
+
+
+# Cenário 8
+sensores: 10000, área: (1000 x 1000) m², velocidade: 10 m/s
+
+Energia total inicial da rede: 6048000000
+-------------------------------------------------------------------------------------------------------------------------
+| Tempo decorrido (em minutos) | Pacotes transferidos | Pacotes perdidos | Nós encontados pelo Sink | Nós descarregados |
+|            43.27             |         2594         |      28617       |    9595    de   10000    |         0         |
+|                              |        8.31        % |      91.69     % |          95.95         % |       0.00      % |
+-------------------------------------------------------------------------------------------------------------------------
+Energia total final da rede: 6044729091
+
+
+# Cenário 9
+sensores: 100, área: (10000 x 10000) m², velocidade: 10 m/s
+
+Energia total inicial da rede: 60480000
+-------------------------------------------------------------------------------------------------------------------------
+| Tempo decorrido (em minutos) | Pacotes transferidos | Pacotes perdidos | Nós encontados pelo Sink | Nós descarregados |
+|           4183.33            |         306          |        4         |     95     de    100     |         0         |
+|                              |        98.71       % |      1.29      % |          95.00         % |       0.00      % |
+-------------------------------------------------------------------------------------------------------------------------
+Energia total final da rede: 57339440
+
+
+# Cenário 10
+sensores: 1000, área: (10000 x 10000) m², velocidade: 10 m/s
+
+Energia total inicial da rede: 604800000
+-------------------------------------------------------------------------------------------------------------------------
+| Tempo decorrido (em minutos) | Pacotes transferidos | Pacotes perdidos | Nós encontados pelo Sink | Nós descarregados |
+|           4183.33            |         3073         |        30        |    970     de    1000    |         0         |
+|                              |        99.03       % |      0.97      % |          97.00         % |       0.00      % |
+-------------------------------------------------------------------------------------------------------------------------
+Energia total final da rede: 573394270
+
+
+# Cenário 11
+sensores: 10000, área: (10000 x 10000) m², velocidade: 10 m/s
+
+Energia total inicial da rede: 6048000000
+-------------------------------------------------------------------------------------------------------------------------
+| Tempo decorrido (em minutos) | Pacotes transferidos | Pacotes perdidos | Nós encontados pelo Sink | Nós descarregados |
+|           4183.33            |        29439         |       1841       |    9743    de   10000    |         0         |
+|                              |        94.11       % |      5.89      % |          97.43         % |       0.00      % |
+-------------------------------------------------------------------------------------------------------------------------
+Energia total final da rede: 5733955610

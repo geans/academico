@@ -1,0 +1,1 @@
+O arquivo gerado pelo programa arvore_filogenetica.py pode ser visualizado no site: http://www.webgraphviz.com/

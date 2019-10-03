@@ -1,0 +1,192 @@
+
+
+# Cenário 1
+Duty-cycle: desabilitado
+sensores: 10, área: (1000 x 1000) m², velocidade: 1 m/s
+
+------------------------------------------------------------------------------------
+|          DESCRIÇÃO           |           VALOR            |     PORCENTAGEM      |
+------------------------------------------------------------------------------------
+| Tempo decorrido (em minutos) |           432.67           |                      |
+| Pacotes transferidos         |            295             |        100.00        |
+| Pacotes perdidos             |             0              |         0.00         |
+| Nós encontados pelo Sink     |             10             |        100.00        |
+| Nós descarregados            |             0              |         0.00         |
+| Energia final da rede        |          5785450           |        95.66         |
+------------------------------------------------------------------------------------
+
+
+# Cenário 2
+Duty-cycle: desabilitado
+sensores: 10, área: (1000 x 1000) m², velocidade: 10 m/s
+
+------------------------------------------------------------------------------------
+|          DESCRIÇÃO           |           VALOR            |     PORCENTAGEM      |
+------------------------------------------------------------------------------------
+| Tempo decorrido (em minutos) |           43.27            |                      |
+| Pacotes transferidos         |             33             |        100.00        |
+| Pacotes perdidos             |             0              |         0.00         |
+| Nós encontados pelo Sink     |             10             |        100.00        |
+| Nós descarregados            |             0              |         0.00         |
+| Energia final da rede        |          6021710           |        99.57         |
+------------------------------------------------------------------------------------
+
+
+# Cenário 3
+Duty-cycle: desabilitado
+sensores: 100, área: (1000 x 1000) m², velocidade: 1 m/s
+
+------------------------------------------------------------------------------------
+|          DESCRIÇÃO           |           VALOR            |     PORCENTAGEM      |
+------------------------------------------------------------------------------------
+| Tempo decorrido (em minutos) |           432.67           |                      |
+| Pacotes transferidos         |            2946            |        94.61         |
+| Pacotes perdidos             |            168             |         5.39         |
+| Nós encontados pelo Sink     |             96             |        96.00         |
+| Nós descarregados            |             0              |         0.00         |
+| Energia final da rede        |          57854540          |        95.66         |
+------------------------------------------------------------------------------------
+
+
+# Cenário 4
+Duty-cycle: desabilitado
+sensores: 100, área: (1000 x 1000) m², velocidade: 10 m/s
+
+------------------------------------------------------------------------------------
+|          DESCRIÇÃO           |           VALOR            |     PORCENTAGEM      |
+------------------------------------------------------------------------------------
+| Tempo decorrido (em minutos) |           43.27            |                      |
+| Pacotes transferidos         |            303             |        93.81         |
+| Pacotes perdidos             |             20             |         6.19         |
+| Nós encontados pelo Sink     |             99             |        99.00         |
+| Nós descarregados            |             0              |         0.00         |
+| Energia final da rede        |          60217370          |        99.57         |
+------------------------------------------------------------------------------------
+
+
+# Cenário 5
+Duty-cycle: desabilitado
+sensores: 1000, área: (1000 x 1000) m², velocidade: 1 m/s
+
+------------------------------------------------------------------------------------
+|          DESCRIÇÃO           |           VALOR            |     PORCENTAGEM      |
+------------------------------------------------------------------------------------
+| Tempo decorrido (em minutos) |           432.67           |                      |
+| Pacotes transferidos         |           17718            |        57.60         |
+| Pacotes perdidos             |           13041            |        42.40         |
+| Nós encontados pelo Sink     |            975             |        97.50         |
+| Nós descarregados            |             0              |         0.00         |
+| Energia final da rede        |         578662820          |        95.68         |
+------------------------------------------------------------------------------------
+
+
+# Cenário 6
+Duty-cycle: desabilitado
+sensores: 1000, área: (1000 x 1000) m², velocidade: 10 m/s
+
+------------------------------------------------------------------------------------
+|          DESCRIÇÃO           |           VALOR            |     PORCENTAGEM      |
+------------------------------------------------------------------------------------
+| Tempo decorrido (em minutos) |           43.27            |                      |
+| Pacotes transferidos         |            1785            |        58.26         |
+| Pacotes perdidos             |            1279            |        41.74         |
+| Nós encontados pelo Sink     |            960             |        96.00         |
+| Nós descarregados            |             0              |         0.00         |
+| Energia final da rede        |         602186150          |        99.57         |
+------------------------------------------------------------------------------------
+
+
+# Cenário 7
+Duty-cycle: desabilitado
+sensores: 1000, área: (100 x 100) m², velocidade: 1 m/s
+
+------------------------------------------------------------------------------------
+|          DESCRIÇÃO           |           VALOR            |     PORCENTAGEM      |
+------------------------------------------------------------------------------------
+| Tempo decorrido (em minutos) |            6.33            |                      |
+| Pacotes transferidos         |            380             |         1.14         |
+| Pacotes perdidos             |           32992            |        98.86         |
+| Nós encontados pelo Sink     |            1000            |        100.00        |
+| Nós descarregados            |             0              |         0.00         |
+| Energia final da rede        |         604416200          |        99.94         |
+------------------------------------------------------------------------------------
+
+
+# Cenário 8
+Duty-cycle: desabilitado
+sensores: 1000, área: (100 x 100) m², velocidade: 10 m/s
+
+------------------------------------------------------------------------------------
+|          DESCRIÇÃO           |           VALOR            |     PORCENTAGEM      |
+------------------------------------------------------------------------------------
+| Tempo decorrido (em minutos) |            0.63            |                      |
+| Pacotes transferidos         |             38             |         1.16         |
+| Pacotes perdidos             |            3227            |        98.84         |
+| Nós encontados pelo Sink     |            974             |        97.40         |
+| Nós descarregados            |             0              |         0.00         |
+| Energia final da rede        |         604761620          |        99.99         |
+------------------------------------------------------------------------------------
+
+
+# Cenário 9
+Duty-cycle: desabilitado
+sensores: 10000, área: (1000 x 1000) m², velocidade: 1 m/s
+
+------------------------------------------------------------------------------------
+|          DESCRIÇÃO           |           VALOR            |     PORCENTAGEM      |
+------------------------------------------------------------------------------------
+| Tempo decorrido (em minutos) |           432.67           |                      |
+| Pacotes transferidos         |           25921            |         8.34         |
+| Pacotes perdidos             |           284735           |        91.66         |
+| Nós encontados pelo Sink     |            9796            |        97.96         |
+| Nós descarregados            |             0              |         0.00         |
+| Energia final da rede        |         5788140790         |        95.70         |
+------------------------------------------------------------------------------------
+
+
+# Cenário 10
+Duty-cycle: desabilitado
+sensores: 10000, área: (1000 x 1000) m², velocidade: 10 m/s
+
+------------------------------------------------------------------------------------
+|          DESCRIÇÃO           |           VALOR            |     PORCENTAGEM      |
+------------------------------------------------------------------------------------
+| Tempo decorrido (em minutos) |           43.27            |                      |
+| Pacotes transferidos         |            2595            |         8.33         |
+| Pacotes perdidos             |           28546            |        91.67         |
+| Nós encontados pelo Sink     |            9580            |        95.80         |
+| Nós descarregados            |             0              |         0.00         |
+| Energia final da rede        |         6022014050         |        99.57         |
+------------------------------------------------------------------------------------
+
+
+# Cenário 11
+Duty-cycle: desabilitado
+sensores: 100, área: (10000 x 10000) m², velocidade: 10 m/s
+
+------------------------------------------------------------------------------------
+|          DESCRIÇÃO           |           VALOR            |     PORCENTAGEM      |
+------------------------------------------------------------------------------------
+| Tempo decorrido (em minutos) |          4183.33           |                      |
+| Pacotes transferidos         |            315             |        100.00        |
+| Pacotes perdidos             |             0              |         0.00         |
+| Nós encontados pelo Sink     |             99             |        99.00         |
+| Nós descarregados            |             0              |         0.00         |
+| Energia final da rede        |          35376850          |        58.49         |
+------------------------------------------------------------------------------------
+
+
+# Cenário 12
+Duty-cycle: desabilitado
+sensores: 1000, área: (10000 x 10000) m², velocidade: 10 m/s
+
+------------------------------------------------------------------------------------
+|          DESCRIÇÃO           |           VALOR            |     PORCENTAGEM      |
+------------------------------------------------------------------------------------
+| Tempo decorrido (em minutos) |          4183.33           |                      |
+| Pacotes transferidos         |            3112            |        99.46         |
+| Pacotes perdidos             |             17             |         0.54         |
+| Nós encontados pelo Sink     |            980             |        98.00         |
+| Nós descarregados            |             0              |         0.00         |
+| Energia final da rede        |         353768880          |        58.49         |
+------------------------------------------------------------------------------------

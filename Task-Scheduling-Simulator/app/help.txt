@@ -1,0 +1,21 @@
+Task Scheduling Simulator
+
+Usage:
+  python tss_run.py [parameters] [process data file] [scheduling policy]
+
+Parameters:
+  -c= or --cores=<integer>    Set number of cores of the processor. Without spaces
+  -q= or --quantum=<integer>  Set quantum size (on Round-robin policy). Without spaces
+  -s  or --stage              Shows the execution in stage every 1 second
+  -d  or --debug              Shows the execution without pauses
+  -h  or --help:              Show help (this message) and exit
+
+Scheduling policys:
+  fcfs      First Come, First Served
+  rr        Round-robin
+  rrta      Round-Robin with Task Aging
+  sjf       Shortest Job First
+  pp        Priority Preemption
+  pwp       Priority Without Preemption
+
+The parameters can be written in any position after the program name. But the [process data file] must be before the [scheduling policy].

@@ -1,0 +1,136 @@
+
+
+# Cenário 1
+Número de viagens Sink: 100
+Duty-cycle: desabilitado
+sensores: 10, área: (1000 x 1000) m², velocidade: 1 m/s
+
+------------------------------------------------------------------------------------
+|          DESCRIÇÃO           |           VALOR            |     PORCENTAGEM      |
+------------------------------------------------------------------------------------
+| Tempo decorrido (em minutos) |          41618.32          |                      |
+| Pacotes transferidos         |            7065            |        100.00        |
+| Pacotes perdidos             |             0              |         0.00         |
+| Nós encontados pelo Sink     |             10             |        100.00        |
+| Nós descarregados            |             10             |        100.00        |
+| Energia final da rede        |             0              |         0.00         |
+------------------------------------------------------------------------------------
+
+
+# Cenário 1
+Número de viagens Sink: 100
+Duty-cycle: habilitado
+sensores: 10, área: (1000 x 1000) m², velocidade: 1 m/s
+
+------------------------------------------------------------------------------------
+|          DESCRIÇÃO           |           VALOR            |     PORCENTAGEM      |
+------------------------------------------------------------------------------------
+| Tempo decorrido (em minutos) |          41618.32          |                      |
+| Pacotes transferidos         |           32300            |        100.00        |
+| Pacotes perdidos             |             0              |         0.00         |
+| Nós encontados pelo Sink     |             10             |        100.00        |
+| Nós descarregados            |             0              |         0.00         |
+| Energia final da rede        |          2603626           |        43.05         |
+------------------------------------------------------------------------------------
+
+
+# Cenário 2
+Número de viagens Sink: 100
+Duty-cycle: desabilitado
+sensores: 10, área: (1000 x 1000) m², velocidade: 10 m/s
+
+------------------------------------------------------------------------------------
+|          DESCRIÇÃO           |           VALOR            |     PORCENTAGEM      |
+------------------------------------------------------------------------------------
+| Tempo decorrido (em minutos) |          4163.32           |                      |
+| Pacotes transferidos         |            2103            |        100.00        |
+| Pacotes perdidos             |             0              |         0.00         |
+| Nós encontados pelo Sink     |             9              |        90.00         |
+| Nós descarregados            |             0              |         0.00         |
+| Energia final da rede        |          3528980           |        58.35         |
+------------------------------------------------------------------------------------
+
+
+# Cenário 2
+Número de viagens Sink: 100
+Duty-cycle: habilitado
+sensores: 10, área: (1000 x 1000) m², velocidade: 10 m/s
+
+------------------------------------------------------------------------------------
+|          DESCRIÇÃO           |           VALOR            |     PORCENTAGEM      |
+------------------------------------------------------------------------------------
+| Tempo decorrido (em minutos) |          4163.32           |                      |
+| Pacotes transferidos         |            2900            |        100.00        |
+| Pacotes perdidos             |             0              |         0.00         |
+| Nós encontados pelo Sink     |             10             |        100.00        |
+| Nós descarregados            |             0              |         0.00         |
+| Energia final da rede        |          5706754           |        94.36         |
+------------------------------------------------------------------------------------
+
+
+# Cenário 3
+Número de viagens Sink: 100
+Duty-cycle: desabilitado
+sensores: 100, área: (1000 x 1000) m², velocidade: 1 m/s
+
+------------------------------------------------------------------------------------
+|          DESCRIÇÃO           |           VALOR            |     PORCENTAGEM      |
+------------------------------------------------------------------------------------
+| Tempo decorrido (em minutos) |          41618.32          |                      |
+| Pacotes transferidos         |           69762            |        97.39         |
+| Pacotes perdidos             |            1872            |         2.61         |
+| Nós encontados pelo Sink     |             98             |        98.00         |
+| Nós descarregados            |             98             |        98.00         |
+| Energia final da rede        |             0              |         0.00         |
+------------------------------------------------------------------------------------
+
+
+# Cenário 3
+Número de viagens Sink: 100
+Duty-cycle: habilitado
+sensores: 100, área: (1000 x 1000) m², velocidade: 1 m/s
+
+------------------------------------------------------------------------------------
+|          DESCRIÇÃO           |           VALOR            |     PORCENTAGEM      |
+------------------------------------------------------------------------------------
+| Tempo decorrido (em minutos) |          41618.32          |                      |
+| Pacotes transferidos         |           284205           |        92.15         |
+| Pacotes perdidos             |           24200            |         7.85         |
+| Nós encontados pelo Sink     |             99             |        99.00         |
+| Nós descarregados            |             0              |         0.00         |
+| Energia final da rede        |          26424206          |        43.69         |
+------------------------------------------------------------------------------------
+
+
+# Cenário 4
+Número de viagens Sink: 100
+Duty-cycle: desabilitado
+sensores: 100, área: (1000 x 1000) m², velocidade: 10 m/s
+
+------------------------------------------------------------------------------------
+|          DESCRIÇÃO           |           VALOR            |     PORCENTAGEM      |
+------------------------------------------------------------------------------------
+| Tempo decorrido (em minutos) |          4163.32           |                      |
+| Pacotes transferidos         |           29904            |        94.03         |
+| Pacotes perdidos             |            1900            |         5.97         |
+| Nós encontados pelo Sink     |             98             |        98.00         |
+| Nós descarregados            |             0              |         0.00         |
+| Energia final da rede        |          35201060          |        58.20         |
+------------------------------------------------------------------------------------
+
+
+# Cenário 4
+Número de viagens Sink: 100
+Duty-cycle: habilitado
+sensores: 100, área: (1000 x 1000) m², velocidade: 10 m/s
+
+------------------------------------------------------------------------------------
+|          DESCRIÇÃO           |           VALOR            |     PORCENTAGEM      |
+------------------------------------------------------------------------------------
+| Tempo decorrido (em minutos) |          4163.32           |                      |
+| Pacotes transferidos         |           29910            |        94.92         |
+| Pacotes perdidos             |            1600            |         5.08         |
+| Nós encontados pelo Sink     |             97             |        97.00         |
+| Nós descarregados            |             0              |         0.00         |
+| Energia final da rede        |          57058408          |        94.34         |
+------------------------------------------------------------------------------------

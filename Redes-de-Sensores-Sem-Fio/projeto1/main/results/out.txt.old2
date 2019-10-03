@@ -1,0 +1,96 @@
+
+
+# Cenário 1
+
+sensores: 10, área: (1000 x 1000) m², velocidade: 1 m/s
+
+------------------------------------------------------------------------------------
+|          DESCRIÇÃO           |           VALOR            |     PORCENTAGEM      |
+------------------------------------------------------------------------------------
+| Tempo decorrido (em minutos) |           432.67           |                      |
+| Pacotes transferidos         |             69             |        100.00        |
+| Pacotes perdidos             |             0              |         0.00         |
+| Nós encontados pelo Sink     |             4              |        40.00         |
+| Nós descarregados            |             0              |         0.00         |
+| Energia final da rede        |           89836            |        89.99         |
+------------------------------------------------------------------------------------
+
+
+# Cenário 2
+
+sensores: 10, área: (1000 x 1000) m², velocidade: 10 m/s
+
+------------------------------------------------------------------------------------
+|          DESCRIÇÃO           |           VALOR            |     PORCENTAGEM      |
+------------------------------------------------------------------------------------
+| Tempo decorrido (em minutos) |           43.27            |                      |
+| Pacotes transferidos         |             4              |        100.00        |
+| Pacotes perdidos             |             0              |         0.00         |
+| Nós encontados pelo Sink     |             2              |        20.00         |
+| Nós descarregados            |             0              |         0.00         |
+| Energia final da rede        |           97837            |        98.27         |
+------------------------------------------------------------------------------------
+
+
+# Cenário 3
+
+sensores: 100, área: (1000 x 1000) m², velocidade: 1 m/s
+
+------------------------------------------------------------------------------------
+|          DESCRIÇÃO           |           VALOR            |     PORCENTAGEM      |
+------------------------------------------------------------------------------------
+| Tempo decorrido (em minutos) |           432.67           |                      |
+| Pacotes transferidos         |             92             |        100.00        |
+| Pacotes perdidos             |             0              |         0.00         |
+| Nós encontados pelo Sink     |             4              |         4.00         |
+| Nós descarregados            |             0              |         0.00         |
+| Energia final da rede        |           668116           |        73.21         |
+------------------------------------------------------------------------------------
+
+
+# Cenário 4
+
+sensores: 100, área: (1000 x 1000) m², velocidade: 10 m/s
+
+------------------------------------------------------------------------------------
+|          DESCRIÇÃO           |           VALOR            |     PORCENTAGEM      |
+------------------------------------------------------------------------------------
+| Tempo decorrido (em minutos) |           43.27            |                      |
+| Pacotes transferidos         |             38             |        100.00        |
+| Pacotes perdidos             |             0              |         0.00         |
+| Nós encontados pelo Sink     |             12             |        12.00         |
+| Nós descarregados            |             0              |         0.00         |
+| Energia final da rede        |           875638           |        95.38         |
+------------------------------------------------------------------------------------
+
+
+# Cenário 5
+
+sensores: 1000, área: (1000 x 1000) m², velocidade: 1 m/s
+
+------------------------------------------------------------------------------------
+|          DESCRIÇÃO           |           VALOR            |     PORCENTAGEM      |
+------------------------------------------------------------------------------------
+| Tempo decorrido (em minutos) |           432.67           |                      |
+| Pacotes transferidos         |             17             |        100.00        |
+| Pacotes perdidos             |             0              |         0.00         |
+| Nós encontados pelo Sink     |             1              |         0.10         |
+| Nós descarregados            |            441             |        44.10         |
+| Energia final da rede        |          5023923           |        99.98         |
+------------------------------------------------------------------------------------
+
+
+# Cenário 6
+
+sensores: 1000, área: (1000 x 1000) m², velocidade: 10 m/s
+
+------------------------------------------------------------------------------------
+|          DESCRIÇÃO           |           VALOR            |     PORCENTAGEM      |
+------------------------------------------------------------------------------------
+| Tempo decorrido (em minutos) |           43.27            |                      |
+| Pacotes transferidos         |             57             |        100.00        |
+| Pacotes perdidos             |             0              |         0.00         |
+| Nós encontados pelo Sink     |             17             |         1.70         |
+| Nós descarregados            |            766             |        76.60         |
+| Energia final da rede        |          8481560           |        99.45         |
+------------------------------------------------------------------------------------
